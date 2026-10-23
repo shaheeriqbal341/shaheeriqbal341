@@ -26,7 +26,7 @@ I'm continuously improving my skills in **JavaScript, Node.js, MongoDB, REST API
 
 ### 🌐 Connect With Me
 
-* **GitHub:** 
+* **GitHub:** **https://github.com/shaheeriqbal341**
 * **LinkedIn:** www.linkedin.com/in/shaheer-iqbal-85971b296
 
 ### 💬 Let's Connect
